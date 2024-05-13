@@ -10,6 +10,7 @@ git config --global github.token mytoken
 git config --global init.defaultBranch main
 git config pull.rebase true
 git config --global --list
+git checkout -b main
 ```
 ```ruby
 git init
