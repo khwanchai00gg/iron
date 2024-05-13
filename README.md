@@ -7,11 +7,14 @@ git config --global user.email khwanchai00gg@gmail.com
 git config --global github.user khwanchai00gg
 git config --global github.token mytoken
 git config --global init.defaultBranch main
+git config pull.rebase true
 git config --global --list
 ```
 ```ruby
 git init
 git add .
 git commit -m "new"
-git remote add origin 
+git remote add origin https://github.com/khwanchai00gg/iron.git
+git pull origin main
+git push origin main
 ```
