@@ -1,6 +1,5 @@
 # iron
 ros2 iron
-<<<<<<< HEAD
 
 ```ruby
 git config --global user.name "khwanchai00gg"
@@ -21,5 +20,3 @@ git remote add origin https://github.com/khwanchai00gg/iron.git
 git pull origin main
 git push -u origin main
 ```
-=======
->>>>>>> origin/main
