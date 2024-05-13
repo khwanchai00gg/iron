@@ -1,2 +1,17 @@
 # iron
 ros2 iron
+
+```ruby
+git config --global user.name "khwanchai00gg"
+git config --global user.email khwanchai00gg@gmail.com
+git config --global github.user khwanchai00gg
+git config --global github.token mytoken
+git config --global init.defaultBranch main
+git config --global --list
+```
+```ruby
+git init
+git add .
+git commit -m "new"
+git remote add origin 
+```
