@@ -17,6 +17,6 @@ git init
 git add -A
 git commit -m "new"
 git remote add origin https://github.com/khwanchai00gg/iron.git
-git pull -u origin main
+git pull origin main
 git push -u origin main
 ```
