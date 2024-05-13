@@ -15,7 +15,7 @@ git checkout -b main
 ```ruby
 git init
 git add -A
-git commit -m "new"
+git commit -a "new"
 git remote add origin https://github.com/khwanchai00gg/iron.git
 git pull origin main
 git push -u origin main
